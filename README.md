@@ -1,1 +1,1 @@
-# Soil-map using regression and geospatial techniques
+#  Digital Soil-map using regression and geospatial techniques
